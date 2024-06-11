@@ -14,4 +14,4 @@ Pobierz repo jako zip i otworz folder OpenGL-StartTemplate/Project
 2. Wpisz polecenia:
 3. cd bin
 4. mingw32-make
-5. ./main.exe (main to nazwa pliku .cpp)
+5. ./main.exe (main to nazwa pliku .cpp, musi być taka sama jak parametr -o podany w bin/Makefile.)
