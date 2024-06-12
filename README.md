@@ -15,3 +15,5 @@ Pobierz repo jako zip i otworz folder OpenGL-StartTemplate/Project
 3. cd bin
 4. mingw32-make
 5. ./main.exe (main to nazwa pliku .cpp, musi być taka sama jak parametr -o podany w bin/Makefile.)
+
+### Aktualizacja: Dodano bibliotekę glm
